@@ -5,7 +5,7 @@
 
 - Demo for live fight fare prediction 
 
-Link: 
+Link: [LIVE](https://flight-price-prediction-api.herokuapp.com/)
 
 ## Overvier
 This is a Flask web app which predicts fare of Flight ticket.
