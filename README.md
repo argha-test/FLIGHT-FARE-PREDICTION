@@ -58,4 +58,4 @@ Login or signup in order to create virtual app. You can either connect your gith
 ```bash
   https://www.heroku.com/
 ```
-![alt text](http://dashboard.heroku.com/apps/to/img.png)
+
