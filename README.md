@@ -56,6 +56,6 @@ The Code is written in Python 3.8.0 If you don't have Python installed you can f
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
 
 ```bash
-  [Herroku](https://www.heroku.com/)
+  https://www.heroku.com/
 ```
-
+![alt text](http://dashboard.heroku.com/apps/to/img.png)
